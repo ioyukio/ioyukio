@@ -1,4 +1,10 @@
+## Who am I?
 - 👋 Hi, I’m @ioyukio
+- 🤓 I'm first year Computer Science and Econometrics student at the University of Gdańsk.
+
+## My skills and experience
+I'm 
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
