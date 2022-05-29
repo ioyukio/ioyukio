@@ -25,8 +25,9 @@ I'm
 </a>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ioyukio&layout=compact"/>
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ioyukio"/>
 
 
 
