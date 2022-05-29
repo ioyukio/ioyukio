@@ -1,8 +1,8 @@
 
 ![IMG_0407](https://user-images.githubusercontent.com/97444555/170872520-08e78c4a-d178-4e9d-a312-8fd972d274c8.GIF)
 
-I'm first year **Computer Science and Econometrics** student at the **University of Gdańsk**. 
-
+I'm a first year **Computer Science and Econometrics** student at the **University of Gdańsk**. 
+I've done C#, Java and SQL online courses.
 In my free time I like playing instruments, travelling, reading books. I'm also a beginner tattoo artist.
 
 ## My skills and experience
