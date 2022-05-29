@@ -15,11 +15,13 @@ I'm
     <img height="45" src="https://cdn3.iconfinder.com/data/icons/pixel-social-media-2/16/Linkedin-512.png"/>
 </a>
 
+<a href="https://www.instagram.com/io_yukio/?hl=pl">
+    <img height="45" src="https://user-images.githubusercontent.com/97444555/170866636-c044cbd8-7cdc-4973-9626-88e07e3800c1.PNG"/>
+</a>
 
 <a href="https://www.instagram.com/io_yukio/?hl=pl">
     <img height="45" src="https://cdn3.iconfinder.com/data/icons/pixel-social-media-2/16/Instagram-512.png"/>
 </a>
-
 
 
 
