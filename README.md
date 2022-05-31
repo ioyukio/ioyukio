@@ -50,7 +50,7 @@ In my free time I like playing instruments, travelling, reading books. I'm also 
 
 
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ioyukio) [![GitHub followers](https://img.shields.io/github/followers/ioyukio.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ioyukio?tab=followers)
 
 
 
