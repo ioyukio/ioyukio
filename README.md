@@ -46,7 +46,7 @@ In my free time I like playing instruments, travelling, reading books. I'm also 
 </a>
 
 ### Languages I speak
-<img height="45" src="https://cdn-icons-png.flaticon.com/128/197/197529.png"/> <img height="45" src="https://cdn-icons-png.flaticon.com/128/197/197374.png"/> <img height="45" src="https://cdn-icons-png.flaticon.com/128/197/197571.png"/> <img height="45" src="https://cdn-icons-png.flaticon.com/512/197/197582.png"/>
+<img height="45" src="https://cdn-icons-png.flaticon.com/128/197/197529.png"/> <img height="45" src="https://cdn-icons-png.flaticon.com/128/197/197374.png"/> <img height="45" src="https://cdn-icons-png.flaticon.com/512/197/197582.png"/>
 
 
 
